@@ -7,7 +7,7 @@ h3 {
   margin: 0 0 10px;
 }
 
-p { 
+p {
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -161,7 +161,7 @@ header {
   border-left: 1px solid #ccc;
 }
 
-#navbar nav a { 
+#navbar nav a {
   display: inline-block;
   width: 16.6666667%;
   margin: 0;
